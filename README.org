@@ -1,0 +1,9 @@
+* Resume
+  Here is my resume. It is written in LaTeX. Perhaps it will serve as
+  a good example for someone looking to make a similar type of resume.
+
+** License
+   CC-BY-ND
+
+   You are free to copy and redistribute exact copies, but please do
+   not modify my resume.
