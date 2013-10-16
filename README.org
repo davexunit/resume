@@ -1,6 +1,12 @@
 * Resume
-  Here is my resume. It is written in LaTeX. Perhaps it will serve as
-  a good example for someone looking to make a similar type of resume.
+  Here is my resume. It is written in LaTeX using the [[http://www.ctan.org/tex-archive/macros/latex/contrib/moderncv/][moderncv]]
+  template. Perhaps it will serve as a good example for someone
+  looking to make a similar type of resume.
+
+** Look
+   Download a PDF version of my resume:
+
+   [http://dthompson.us/static/docs/resume.pdf]
 
 ** License
    Creative Commons Attribution-NoDerivs 3.0 Unported
