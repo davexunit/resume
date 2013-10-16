@@ -3,7 +3,7 @@
   a good example for someone looking to make a similar type of resume.
 
 ** License
-   CC-BY-ND
+   Creative Commons Attribution-NoDerivs 3.0 Unported
 
    You are free to copy and redistribute exact copies, but please do
    not modify my resume.
