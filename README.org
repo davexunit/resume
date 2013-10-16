@@ -5,8 +5,7 @@
 
 ** Look
    Download a PDF version of my resume:
-
-   [http://dthompson.us/static/docs/resume.pdf]
+   http://dthompson.us/static/docs/resume.pdf
 
 ** License
    Creative Commons Attribution-NoDerivs 3.0 Unported
