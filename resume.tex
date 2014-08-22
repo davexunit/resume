@@ -5,15 +5,17 @@
 
 \name{David}{Thompson}
 \title{Software Engineer}
-\address{326 Broadway}{Somerville, Massachusetts 02145}
+\address{326 Broadway \#25}{Somerville, Massachusetts 02145}
 \phone[mobile]{+1~(774)~289~6629}
-\email{dthompson2@worcester.edu}
-\homepage{http://dthompson.us}
-\social[github]{https://github.com/davexunit}
-\extrainfo{\tiny Licensed under Creative Commons Attribution-NoDerivs 3.0 Unported}
+\email{davet@gnu.org}
+\homepage{dthompson.us}
 
 \begin{document}
 \makecvtitle
+
+\section{Objective}
+To acquire a software engineering position for the purpose of
+developing ethical Free and Open Source software.
 
 \section{Education}
 \cventry{2008--2012}{Bachelor of Computer Science}{Worcester State
@@ -29,32 +31,63 @@
 \item Performed MySQL to PostgreSQL database migration for new
   customer management and billing system.
 \item Administered Debian and CentOS production servers.
-\item Customized free software web applications to meet business
-  requirements.
+\item Developed an end-user WiFi captive portal management application
+  using PHP, JavaScript, and FreeRADIUS
 \end{itemize}}
 
-\cventry{2012--present}{Web Developer}{Vista Higher Learning}{Boston,
+\cventry{2012--2014}{Web Developer}{Vista Higher Learning}{Boston,
   MA}{}{Ruby on Rails and AngularJS web development.\newline{}
   \begin{itemize}
-  \item Worked in large Ruby (Rails) and Javascript (AngularJS,
+  \item Worked in large Ruby (Rails) and JavaScript (AngularJS,
     JQuery) codebase with thousands of active users on production
     servers.
   \item Solved performance problems via SQL optimization, caching with
     Redis, and HTTP traffic inspection.
   \item Helped integrate sitewide XMPP text/video chat system with
-    Javascript client.
+    JavaScript client.
+\end{itemize}}
+
+\cventry{2014--Present}{Web Developer}{Free Software Foundation}{Boston,
+  MA}{}{PHP, Ruby, Python, and Javascript web development\newline{}
+  \begin{itemize}
+  \item Customized and/or contributed patches to many upstream Free
+    Software web applications including CiviCRM, Drupal, Plone,
+    MediaWiki, Piwik, and GNU Mediagoblin.
+  \item Served as the Assistant Chief Webmaster of \url{gnu.org}
+  \item Coordinated development efforts with volunteers worldwide.
 \end{itemize}}
 
 \section{Technologies}
-\cvitem{Languages}{C, Emacs Lisp, Java, Javscript, Python, Ruby, Scheme}
-\cvitem{Web}{Rails, AngularJS, JQuery}
-\cvitem{GNU/Linux}{Debian, CentOS, Trisquel, Ubuntu, Arch Linux}
-\cvitem{VCS}{Git}
+\cvitem{Languages}{JavaScript, Python, Ruby, Scheme, C, PHP, Emacs Lisp, Java}
+\cvitem{Web}{Rails, AngularJS, JQuery, MithrilJS, UnderscoreJS}
+\cvitem{GNU/Linux}{Debian, Trisquel, Ubuntu, CentOS, Arch, GNU}
+\cvitem{VCS}{Git, CVS, SVN}
 
-\section{Free Software}
-\cvitem{Contributor}{GNU Guile, GNU Guix, GNU MediaGoblin, GNU FM, Diaspora}
-\cvitem{Author}{Guile-2D, Yon-chan}
+\section{Free and Open Source Software Contributions}
+\cvitem{Contributor}{
+  \begin{itemize}
+  \item GNU Guile -- Implementation of the Scheme programming language
+  \item GNU Guix -- Purely functional package manager
+  \item GNU MediaGoblin -- Media hosting web application
+  \item Diaspora -- Decentralized social network
+  \item Guile-json -- Guile library for JSON serialization/deserialization
+  \item Guile-wm -- X11 window manager
+  \end{itemize}
+}
+\cvitem{Author}{
+  \begin{itemize}
+  \item Sly -- Game engine featuring live coding and functional
+    reactive programming
+  \item Guix-web -- Web interface to the GNU Guix package manager
+  \item Guile-toxcore -- Guile bindings for Tox peer-to-peer messenger
+  \item Yon-chan -- 4chan client for GNU Emacs
+  \item Notmuch-unread -- Emacs mode for displaying unread email count
+  \end{itemize}
+}
 
 \end{document}
 
+%% Local Variables:
+%% compile-command: "pdflatex resume.tex"
+%% End:
 %% end of file 'resume.tex'.
